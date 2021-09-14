@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = aline.rousselinsiv@gmail.com
+	name = Aline Rousselin Siv
